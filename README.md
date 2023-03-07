@@ -20,3 +20,5 @@ Key features
 Change from my development environment!
 
 Change from github!
+
+Resolve this conflict!
