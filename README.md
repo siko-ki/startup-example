@@ -22,3 +22,6 @@ Change from my development environment!
 Change from github!
 
 Resolve this conflict!
+
+I have worked quite a bit in github so I didn't learn anything from this assignment,
+I have not typically made changes directly on github though!
